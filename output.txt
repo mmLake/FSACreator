@@ -1,0 +1,8 @@
+Finite State Automaton:
+(1)number of states: 11
+(2)final states: [2, 6, 10]
+(3)alphabet: [a, b, r, c, e]
+Finite State Automaton:
+(1)number of states: 11
+(2)final states: [2, 6, 10]
+(3)alphabet: [a, b, r, c, e]
